@@ -29,3 +29,19 @@ I conduct a first exploration of the raw data in order to have a clearer idea of
 Example of query: explore ride_id and rideable_type
 
 ![](Screenshots/1_Exploration.jpeg)
+
+Complete code: Data Exploration
+
+#### Data Cleaning
+After the exploration, the steps are taken to clean the data. You can find the complete code here: Data Cleaning
+Recap of data cleaning steps:
+1. Remove rides for docked/classic bike that have no starting or ending station. 
+2. Remove observations with NULL values. Note: keep those observations where start/end station is NULL and rideable_type = electric because these are then changed to "Locked Outside"
+3. Change start/end station name = NULL with "Locked Outside"
+4. Adjust member_casual: some are written as "member\r" 
+5. Drop all observations where ride_id is not 16 characters long. Note: by dropping ride_id = NULL and length(ride_id) != 16 also duplicates in this variable are deleted. 
+6. Drop observations where start/end stations are inconsistent or are test-stations. 
+
+Furthermore, trip duration in minutes is computed and from starting date I extract the day of the week and the month. 
+
+Example of a query
