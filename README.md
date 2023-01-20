@@ -30,5 +30,11 @@ The data collection team at Cyclist have outlined the main features of the datas
 To combine, clean and perform a quick exploratory analysis I used SQL, in particular MySQL which has some small difference from BigQuery taught during the course. I first created the table *raw_data_2022* and then load the csv files one by one using the command LOAD DATA LOCAL INFILE that allow to import quickly large amount of data. Total number of obserations after import: 5'667'720. Total variables/columns: 13. 
 
 #### Data Exploration 
-
+I conduct a first exploration of the raw data in order to have a clearer idea of what needs to be done to prepare the data for the analysis. Main adjustment to do regard: 
+  a. ride_id: it should be unique and 16 characters long 
+  b. rideable_type: docked_bike need to be modified to 'classic_bike' as it was the old naming system. 
+  c. start/end_station_name: there are 'test' stations included which need to be removed as well as wrong station names. 
+  d. remove observations where bike type is 'classic' and start/end_station is NULL 
+  e. member_casual: some entries are 7 characters long, which need to be adjusted to 6. 
+  f. drop observations with NULL in latitude/longitude columns. 
 
