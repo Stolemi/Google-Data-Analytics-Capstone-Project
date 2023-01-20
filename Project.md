@@ -9,10 +9,10 @@ The analysis conducted by the finance department have determined that Members ar
 The data is collected directly by Cyclist and for this analysis I restrict the sample to monthly data for 2022. The data is saved in 12 separated files as .csv. Note: date is first formatted in Excel through a macro in order to align with the default format of MySQL, i.e. YYYY-MM-DD HH:MM
 
 The data collection team at Cyclist have outlined the main features of the dataset provided:
-  1. Each month contains every trip made during that period
-  2. 'docked bike' is the old label for 'classic bike'
-  3. Classic bike must start and end at a docking station, while electric bikes can start and end their trip anywhere as they include a locker. 
-  4. Data should contains only trip longer than one minute and shorter than one day. 
+  * Each month contains every trip made during that period
+  * 'docked bike' is the old label for 'classic bike'
+  * Classic bike must start and end at a docking station, while electric bikes can start and end their trip anywhere as they include a locker. 
+  * Data should contains only trip longer than one minute and shorter than one day. 
 
 ## Process
 To combine, clean and perform a quick exploratory analysis I used SQL, in particular MySQL which has some small difference from BigQuery taught during the course. I first created the table *raw_data_2022* and then load the csv files one by one using the command LOAD DATA LOCAL INFILE that allow to import quickly large amount of data. Total number of obserations after import: 5'667'720. Total variables/columns: 13. 
