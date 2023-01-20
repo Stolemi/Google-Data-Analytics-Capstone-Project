@@ -1,7 +1,15 @@
 # Google-Data-Analytics-Capstone-Project
 
 ## Introduction 
-During the past month I have been completing  the Google Data Analytics Professional certificate offered on Coursera, mainly to get an introduction and to develop my skills with SQL and Tableau, as I already had many courses on R during my Master in Economics. This is a quick analysis based on the **Cyclist dataset.
+During the past month I have been completing  the Google Data Analytics Professional certificate offered on Coursera, mainly to get an introduction and to develop my skills with SQL and Tableau, as I already had many courses on R during my Master in Economics. This is a quick analysis based on the **Cyclist dataset**.
+ 
+Data analysis phases: 
+  1. Ask
+  2. Prepare
+  3. Process
+  4. Analyse
+  5. Share 
+  6. Act
 
 ## Background
 In this case study I am assumed to be a Jr. data analyst working in the marketing analytics team at Cyclist, a bike-share company in Chicago. Cyclist started in 2016 and since then the program has grown to a fleet of almost 6000 bikes that are locked into a network of little less than 700 stations around Chicago. The company offers both classic and electric bikes and has two types of membership: **casuals**, customers who buy single-trip pass or day pass; **members**, customer who purchase an annual pass. 
