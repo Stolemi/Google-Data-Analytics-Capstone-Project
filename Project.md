@@ -30,7 +30,7 @@ Example of query: explore ride_id and rideable_type
 
 ![](Screenshots/1_Exploration.jpeg)
 
-Complete code: Data Exploration
+Complete code: [Data Exploration](https://github.com/Stolemi/Google-Data-Analytics-Capstone-Project/blob/main/02_Data_Exploration.sql)
 
 #### Data Cleaning
 After the exploration, the steps are taken to clean the data. You can find the complete code here: Data Cleaning
@@ -44,4 +44,8 @@ Recap of data cleaning steps:
 
 Furthermore, trip duration in minutes is computed and from starting date I extract the day of the week and the month. 
 
-Example of a query
+Example of a query: 
+
+![](Screenshots/2_Data_Cleaning.jpeg)
+
+Complete code: [Data Cleaning](https://github.com/Stolemi/Google-Data-Analytics-Capstone-Project/blob/main/03_Data_Cleaning.sql)
