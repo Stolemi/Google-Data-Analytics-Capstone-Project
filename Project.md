@@ -28,4 +28,4 @@ I conduct a first exploration of the raw data in order to have a clearer idea of
 
 Example of query: explore ride_id and rideable_type
 
-![](screenshots/Exploration.png)
+![](Screenshots/1_Exploration.jpeg)
