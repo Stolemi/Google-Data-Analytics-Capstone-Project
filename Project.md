@@ -49,3 +49,5 @@ Example of a query:
 ![](Screenshots/2_Data_Cleaning.jpeg)
 
 Complete code: [Data Cleaning](https://github.com/Stolemi/Google-Data-Analytics-Capstone-Project/blob/main/03_Data_Cleaning.sql)
+
+## Analyze/Share
