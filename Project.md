@@ -26,4 +26,6 @@ I conduct a first exploration of the raw data in order to have a clearer idea of
   5. member_casual: some entries are 7 characters long, which need to be adjusted to 6. 
   6. drop observations with NULL in latitude/longitude columns. 
 
+Example of query: explore ride_id and rideable_type
 
+![](screenshots/Exploration.png)
