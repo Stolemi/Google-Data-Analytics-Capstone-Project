@@ -60,7 +60,7 @@ I first aggregate and analyze the data on SQL ([Exploratory Analysis](https://gi
 * total rides by starting and ending station 
 
 ### Findings
-1. Members account for over ... of total rides in 2022, while looking at the type of bike used by both membership types we can observe that Casuals slightly prefer electric bikes (53.7 vs. 46.3) while members use both type in similar way. 
+1. Members account for 58.98% of total rides in 2022, while looking at the type of bike used by both membership types we can observe that Casuals slightly prefer electric bikes (53.7 vs. 46.3) while members use both type in similar way. 
 <p align = "center">
   <img src="https://github.com/Stolemi/Google-Data-Analytics-Capstone-Project/blob/main/Screenshots/1_rides_by_member_bike.jpeg" width = 70% height=70%>
 </p>
