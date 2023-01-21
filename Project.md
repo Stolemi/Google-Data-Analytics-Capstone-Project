@@ -101,4 +101,23 @@ I first aggregate and analyze the data on SQL ([Exploratory Analysis](https://gi
   <img src="https://github.com/Stolemi/Google-Data-Analytics-Capstone-Project/blob/main/Screenshots/7_End_Station.jpeg" width = 70% height=70%>
 </p>
 
+### Summary of findings
+
+**Casual riders**
+* Slightly prefer electric bikes to classic bikes. 
+* Use the service mostly for leisure, during midday hours and mostly on weekends
+* The average ride duration is around 22 minutes, almost double that of member riders
+* Trips in general start and end in the vicinity of parks, the lake and turist attractions
+
+**Member riders**
+* Use the service mostly to commute to work, with peaks at around 8 a.m. and 5 p.m during weekdays
+* Their average ride is around 13 minutes
+* Start and ending stations are in areas with offices and houses. 
+
+## Act
+
+Having detected the main differences between casual riders and member riders we can propose some targeted marketing measures. The main issue to keep in mind is that Casuals are for the most part tourists that visit the city for a limited amount of time and are therefore difficult to attract with annual memberships.
+1. Cyclist should diversify its membership possibilities, offering shorter period membership. For example Summer Membership or also Weekend Membership, that would allow unlimited amount of rides during Fridays, Saturdays and Sundays. 
+2. The advertising campaign should take place around turist areas (parks, lake,..) in order to reach the largest amount of people. 
+
 
