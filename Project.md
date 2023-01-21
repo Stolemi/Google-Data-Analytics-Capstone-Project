@@ -64,10 +64,15 @@ I first aggregate and analyze the data on SQL ([Exploratory Analysis](https://gi
 
 SCREENSHOT 1
 
-2. Next are visualized the average daily ride duration by member and bike type as well as the total rides by weekday. From these charts we can observe that Members use the bike service more often but for shorter rides (almost 13 minutes on average during the week), while Casuals usually utilize the bikes for longer trips and especially during weekends (22.32 minutes weekly average). **A first important conclusion is therefore that Members in general are people who ride to work during weekdays, while Casuals are people who use the service on weekends and for leisure.** The chart on the average trip duration by bike type shows as expected that electric bike are used for a shorter amount of time because they allow to travel to destination more quickly. 
+2. Next are visualized the average daily ride duration by member and bike type as well as the total rides by weekday. From these charts we can observe that Members use the bike service more often but for shorter rides (almost 13 minutes on average during the week), while Casuals usually utilize the bikes for longer trips and especially during weekends (22.32 minutes weekly average). The chart on the average trip duration by bike type shows as expected that electric bike are used for a shorter amount of time because they allow to travel to destination more quickly. 
+**A first important conclusion is therefore that Members in general are people who ride to work during weekdays, while Casuals are people who use the service on weekends and for leisure.**
 
 SCREENSHOT 2 + 3
 
-3. Visualizing data on total rides by hour of the day and by month we observe that, as suggested above, Members are probably for the most part people riding the bikes to and from work, as we have the most amount of rides around 8 a.m. and 5 p.m. With respect to Casuals, total rides follow and increasing path and are above average especially in the afternoon, reaching a peak at 5 p.m. which also supports the hypothesis that these are in general tourists or people using the service for leisure. With respect to the second chart, both Members and Casuals follow the same trajectory with summer months being when the the service is most used. 
+3. Visualizing data on total rides by hour of the day and by month we observe that, as suggested above, Members are probably for the most part people riding the bikes to and from work, as we have the most amount of rides around 8 a.m. and 5 p.m. With respect to Casuals, total rides follow and increasing path and are above average especially in the afternoon, reaching a peak at 5 p.m. which also supports the hypothesis that these are in general tourists or people using the service for leisure. With respect to the second chart, both Members and Casuals follow the same trajectory with late spring and summer months being when the service is most used. 
 
 SCREENSHOT 4 + 5
+
+4. Lastly, I visualize the maps with the most popular starting and ending stations. We can observe that Casuals generally end their trips near parks, the lake or other turists attractions, while Members are grouped in the city center where offices and houses are located.   
+
+SCREENSHOT 6 + 7 
