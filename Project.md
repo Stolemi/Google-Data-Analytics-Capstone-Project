@@ -52,7 +52,7 @@ Complete code: [Data Cleaning](https://github.com/Stolemi/Google-Data-Analytics-
 
 ## Analyze/Share
 With the cleaned data the analysis can be conducted to answer the question: **What are the difference between Members and Casuals?** 
-I first aggregate and analyze the data on SQL ([Exploratory Analysis](https://github.com/Stolemi/Google-Data-Analytics-Capstone-Project/blob/main/03_EDA.sql)). I compute: 
+I first aggregate and analyze the data on SQL ([Exploratory Analysis](https://github.com/Stolemi/Google-Data-Analytics-Capstone-Project/blob/main/04_EDA.sql)). I compute: 
 * total rides (by member type and bike type)
 * average ride duration by weekday and member/bike type 
 * total rides by hour, weekday and month
